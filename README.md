@@ -204,4 +204,4 @@ LogParserProject/
 
 **Muhammad Rumman Aqeel** — Security Operations / Cloud Security
 
-[GitHub](https://github.com/rummanaqeel) · [LinkedIn](https://linkedin.com/in/rumman-aqeel-336758376) · rummanaqeel8@gmail.com
+[GitHub](https://github.com/rummanaqeel) · [LinkedIn](https://linkedin.com/in/rumman-aqeel) · rummanaqeel8@gmail.com
